@@ -1,1 +1,2 @@
-# CameraDissection-MRTK
+# CameraDissection
+Hololens 2 application
